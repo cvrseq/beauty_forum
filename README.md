@@ -1,4 +1,4 @@
-# beauty_forum fuck me
+# beauty_forum
 
 ## backend - Rust
 
