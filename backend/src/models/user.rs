@@ -34,7 +34,7 @@ async fn send_code(data: web::Data<AppState>, req: web::Json<phoneNumberRequest>
         codes.push((req.phone.clone(), code.clone()));
     }
 
-    HttpResponse::Ok().body(format!("Код отправлен на {}", req.phone))
+    HttpResponse::Ok().body(format!("Code sent to {}", req.phone))
 }
 
 
