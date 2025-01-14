@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/Users/aleksandrsuslin/Desktop/beauty_forum/backend/target/debug/build/mime_guess-592b251266f64e60/out/mime_types_generated.rs
