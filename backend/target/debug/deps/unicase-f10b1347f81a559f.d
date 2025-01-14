@@ -1,0 +1,10 @@
+/Users/aleksandrsuslin/Desktop/beauty_forum/backend/target/debug/deps/libunicase-f10b1347f81a559f.rmeta: /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/lib.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/ascii.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/unicode/mod.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/unicode/map.rs
+
+/Users/aleksandrsuslin/Desktop/beauty_forum/backend/target/debug/deps/libunicase-f10b1347f81a559f.rlib: /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/lib.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/ascii.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/unicode/mod.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/unicode/map.rs
+
+/Users/aleksandrsuslin/Desktop/beauty_forum/backend/target/debug/deps/unicase-f10b1347f81a559f.d: /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/lib.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/ascii.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/unicode/mod.rs /Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/unicode/map.rs
+
+/Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/lib.rs:
+/Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/ascii.rs:
+/Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/unicode/mod.rs:
+/Users/aleksandrsuslin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/unicase-2.8.1/src/unicode/map.rs:

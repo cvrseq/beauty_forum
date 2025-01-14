@@ -2,8 +2,8 @@
 
 use actix_web::{middleware, web, App, HttpResponse, HttpServer};
 use {env_logger, log};
-
-
+use crate::handlers::auth_handlers::register;
+use crate::handlers::auth_handlers::echo;
 mod handlers { 
     pub mod auth_handlers;
 }
@@ -30,12 +30,13 @@ async fn main() -> std::io::Result<()> {
     log::info!("starting HTTP server at http://localhost:8080");
         
     
-    HttpServer::new(||
+    HttpServer::new(move || {
          App::new()
             .wrap(middleware::Logger::default().log_target("http_log"))
-            .route("/login", web::get().to(handlers::auth_handlers::login))
-            .route("/", web::get().to(handlers::auth_handlers::greetings)))
-            
+            .route("/", web::get().to(|| async { HttpResponse::Ok().body("Hello") }))
+            .route("/register", web::post().to(register))
+            .route("/echo", web::get().to(echo))
+    })
             
         .bind("127.0.0.1:8080")? 
         .run()
